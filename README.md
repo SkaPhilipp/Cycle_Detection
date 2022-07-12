@@ -1,5 +1,5 @@
 # Cycle_Detection
-This project solves the problem of detecting cycles in directed graphs using Python and adjacency lists.
+This project uses Pythong to solve the problem of detecting cycles in directed graphs using adjacency lists.
 
 ## Input:
 Multiple adjacency lists (prefaced each with the respecitve graph order) of simple directed graphs (no loops or multiple edges). The value 0 as graph order indicates the end of the input.
