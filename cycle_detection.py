@@ -66,7 +66,7 @@ def recursiveDFSvisit(s):
 # initialise graph number
 graph_number = 0
 
-# read first integer as order for following graph given as adjacency list
+# read first integer as order for following graph given as adjacency list via standard input
 order = int(sys.stdin.readline().strip())
 
 # open output file where result is stored whether graph contains cycle
