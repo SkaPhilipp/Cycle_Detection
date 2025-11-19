@@ -1,4 +1,4 @@
-# Cycle_Detection 
+# Cycle_Detection
 This is a project that uses Python to solve the problem of detecting cycles in directed graphs using adjacency lists as input representing the directed graphs.
 
 ## Input:
